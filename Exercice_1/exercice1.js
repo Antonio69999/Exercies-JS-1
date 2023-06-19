@@ -4,4 +4,4 @@
 let my_variable;
 my_variable = 1;
 
-alert (my_variable)
+alert (my_variable);
